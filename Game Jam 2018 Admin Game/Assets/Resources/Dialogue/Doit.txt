@@ -1,0 +1,49 @@
+Admin 1 Talk
+01 01 00
+100 0 
+0 
+We need to make a plan, advertise, find a space. . .
+||seperator||
+Admin 2 Talk
+02 02 00
+100 0 
+0 
+YES!!!
+||seperator||
+Admin 1 Talk
+01 01 00
+100 0 
+0 
+We need to register participants, schedule a showcase. . .
+||seperator||
+Admin 2 Talk
+02 02 00
+100 0 
+0 
+I'M VERY EXCITED OVER HERE!!!
+||seperator||
+Admin 1 Talk
+07 01 00
+100 0 
+0 
+Awards would be good, and some stickers for the participants.
+||seperator||
+Admin 2 Talk
+03 02 00
+100 0 
+0 
+ I CAN'T BELIEVE IT IS ACTUALLY HAPPENING?
+||seperator||
+Admin 1 Talk
+00 01 00
+100 0 
+0 
+Are you. . .okay?
+||seperator||
+Admin 2 Talk
+03 02 00
+100 0 
+0 
+1 - Yes. I just really like collaborating.
+2 - I think so. But maybe I should lay off the coffee for a little while.
+||seperator||

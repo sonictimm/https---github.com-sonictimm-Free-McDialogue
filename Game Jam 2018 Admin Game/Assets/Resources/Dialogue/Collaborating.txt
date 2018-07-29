@@ -1,0 +1,13 @@
+Admin 1 Talk
+01 01 00
+100 0 
+0 
+Me too. Want to celebrate this excellent plan?
+||seperator||
+Admin 2 Talk
+01 02 00
+100 0 
+0 
+1 - Heck yeah!
+2 - Maybe. . .what do you have in mind?
+||seperator||

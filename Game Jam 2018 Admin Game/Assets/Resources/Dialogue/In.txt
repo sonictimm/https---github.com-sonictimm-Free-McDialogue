@@ -1,0 +1,48 @@
+Admin 1 Talk
+01 01 00
+100 0 
+0 
+We need to make a plan, advertise, find a space. . .
+||seperator||
+Admin 2 Talk
+01 02 00
+100 0 
+0 
+We also need to order pizza.
+||seperator||
+Admin 1 Talk
+01 01 00
+100 0 
+0 
+We need to register participants, schedule a showcase. . .
+||seperator||
+Admin 2 Talk
+01 02 00
+100 0 
+0 
+I suggest several pizzas with various toppings.
+||seperator||
+Admin 1 Talk
+01 01 00
+100 0 
+0 
+Awards would be good, and some stickers for the participants.
+||seperator||
+Admin 2 Talk
+01 02 00
+100 0 
+0 
+Maybe some with cheese, some with pepperoni.
+||seperator||
+Admin 1 Talk
+01 01 00
+100 0 
+0 
+Together, we have created one rock-solid plan. 
+||seperator||
+Admins 1 & 2
+00 00 00
+100 0 
+0 
+Let's do this!
+||seperator||

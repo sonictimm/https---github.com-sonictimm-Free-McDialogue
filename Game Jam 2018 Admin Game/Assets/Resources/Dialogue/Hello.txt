@@ -1,0 +1,37 @@
+Admin 1 Talk
+01 01 00
+100 0 
+0 
+Let's plan a game jam at Marshall!
+||seperator||
+Admin 1 Talk
+71 00 00
+100 0 
+1 
+
+||seperator||
+Admin 2 Idle
+71 00 00
+100 0 
+1 
+
+||seperator||
+Admin 1 Idle
+70 00 00
+100 0 
+1 
+
+||seperator||
+Admin 2 Talk
+70 00 00
+100 0 
+1 
+
+||seperator||
+Admin 2 Talk
+00 00 00
+100 0 
+0 
+1 - That sounds hard.
+2 - Okay, I'm in
+||seperator||

@@ -1,0 +1,37 @@
+Admin 1 Talk
+01 01 00
+100 0 
+0 
+It will be hard, but aren't all worthwhile projects difficult?
+||seperator||
+Admin 2 Talk
+01 02 00
+100 0 
+0 
+And that's why I haven't participated in your projects before.
+||seperator||
+Admin 1 Talk
+01 01 00
+100 0 
+0 
+I'm so glad you've decided to change your ways and get on board!
+||seperator||
+Admin 2 Talk
+01 02 00
+100 0 
+0 
+Wait, what. . .?
+||seperator||
+Admin 1 Talk
+01 01 00
+100 0 
+0 
+Alright, it's decided! We're planning Marshall Game Jam 2018!
+||seperator||
+Admin 2 Talk
+01 02 00
+100 0 
+0 
+1 - Fine. I'm in. What now?
+2 - Let's do this thing!!!
+||seperator||

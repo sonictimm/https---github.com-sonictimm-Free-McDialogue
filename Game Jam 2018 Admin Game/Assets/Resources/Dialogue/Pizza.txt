@@ -1,0 +1,18 @@
+Admin 2 Talk
+30 00 00
+100 0 
+1 
+
+||seperator||
+Admin 2 Idle
+30 00 00
+100 0 
+1 
+
+||seperator||
+Admin 1 Talk
+01 01 00
+100 0 
+0 
+PIZZA!
+||seperator||
